@@ -20,3 +20,4 @@ Para instalar as dependências, execute:
 
 ```bash
 pip install -r requirements.txt
+```
